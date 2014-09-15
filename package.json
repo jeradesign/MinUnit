@@ -1,0 +1,9 @@
+{
+  "name": "MinUnit",
+  "description": "A minimal unit testing framework for ANSI C",
+  "version": "1.0.0",
+  "src": [
+    "minunit.h"
+  ],
+  "repo": "jeradesign/MinUnit"
+}
